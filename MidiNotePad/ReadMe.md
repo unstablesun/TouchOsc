@@ -23,9 +23,16 @@ Do the same for the label grid but make it of type LABEL.  Also uncheck the foll
 
 ![image](https://user-images.githubusercontent.com/8905472/219447929-f2a412b1-fbd7-40c7-8cf6-3fc48ad9ff8e.png)
 
-Ok this is the key part, back to the button grid and to the midi message. Change to NOTE_ON.  For the Note INDEX set the scale to your root note and the other value to root note + 1?  I'm not really sure why this works. I fiddled with these values till I got it working but the end result is that all the buttons in the grid will have a sequencial sequence of midi notes 60 - 72.
+Ok this is the key part, back to the button grid and to the midi message. Change to NOTE_ON.  For the Note INDEX set the scale to your root note and the other value to root note + 1?  I'm not really sure why this works. I fiddled with these values till I got it working but the end result is that all the buttons in the grid will have a sequencial sequence of midi notes 60 - 71.
 
 
 
 ![image](https://user-images.githubusercontent.com/8905472/219448670-d0dc7385-0e63-43d2-a2d5-36e194127f2f.png)
+
+
+Then to put the note label values in add some script at the group level.
+
+![image](https://user-images.githubusercontent.com/8905472/219451305-f565093c-d7a6-439f-8963-9a99c21e7da3.png)
+
+Pretty simple stuff but could be useful for anyone getting started and a good starting point for a midi surface.
 
