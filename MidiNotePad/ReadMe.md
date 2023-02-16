@@ -10,4 +10,13 @@ I also tried to make this quick and simple and did not "ungroup" the grid which 
 
 
 First create a group, double click on the group to get inside and create two grids.
+
 ![image](https://user-images.githubusercontent.com/8905472/219444546-8efdd3a1-4549-4932-b35e-b803dcae2fae.png)
+
+The first grid is of type BUTTON.  Set the rows and columns and anything else you want.  Note any change you make to the button grid must match the lable grid as far as dimensions and orientation.
+
+![image](https://user-images.githubusercontent.com/8905472/219445922-a487111c-f32b-4216-91d3-5e97087f2b67.png)
+
+
+
+
