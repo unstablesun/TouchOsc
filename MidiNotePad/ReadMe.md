@@ -1,4 +1,8 @@
-Midi Note Pad.
+Midi Note Pad.  This is my first project after a day looking through the docs and the excellent community posts on the TouchOsc Discord.
+
+This is a very basic/beginner example of creating a grid of buttons and lables, and sends midi information out based on the note pressed.
+
+
 
 
 
